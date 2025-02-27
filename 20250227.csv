@@ -1,0 +1,96 @@
+ACTIE,TYPE,TAFEL,DATUM,MEDEWERKER,DEBIT,CREDIT,AANTAL,BTW,BOEK,PRODUCT,TRANSACTIE,BESTELID,DATEEE,AFGEREKEND
+item,toegevoegd,Tafel Bar Indoor,2025/02/27 11:56:49,Manager,6.00,,2,9,8010,Can,,fmGpruggRur5tmEz6U34wk,27-02-2025,verkoop
+item,toegevoegd,Tafel Bar Indoor,2025/02/27 12:08:33,Manager,8.00,,1,9,8010,Focaccia FILLED 8,,fmGpruggRur5tmEz6U34wk,27-02-2025,verkoop
+item,toegevoegd,Tafel Bar Indoor,2025/02/27 12:08:33,Manager,7.50,,1,9,8010,Focaccia FILLED 7.5,,fmGpruggRur5tmEz6U34wk,27-02-2025,verkoop
+item,toegevoegd,Tafel Bar Indoor,2025/02/27 12:39:05,Manager,5.50,,1,9,8010,Torta 5.5,,fmGpruggRur5tmEz6U34wk,27-02-2025,verkoop
+transactie,,Tafel Bar Indoor,2025/02/27 12:39:34,Manager,,27.00,,,,,PIN,fmGpruggRur5tmEz6U34wk,27-02-2025,
+item,toegevoegd,Tafel Muretto Indoor,2025/02/27 12:13:44,Manager,2.50,,1,9,8010,Tea/American Coffe,,v2nOuQx9G7FaLWoRN8XGT4,27-02-2025,verkoop
+item,toegevoegd,Tafel Muretto Indoor,2025/02/27 12:13:44,Manager,2.30,,1,9,8010,Coffee/Espresso,,v2nOuQx9G7FaLWoRN8XGT4,27-02-2025,verkoop
+item,toegevoegd,Tafel Muretto Indoor,2025/02/27 12:13:44,Manager,9.00,,1,9,8010,Focaccia FILLED 9,,v2nOuQx9G7FaLWoRN8XGT4,27-02-2025,verkoop
+item,toegevoegd,Tafel Muretto Indoor,2025/02/27 12:13:44,Manager,8.00,,1,9,8010,Focaccia FILLED 8,,v2nOuQx9G7FaLWoRN8XGT4,27-02-2025,verkoop
+transactie,,Tafel Muretto Indoor,2025/02/27 12:49:32,Manager,,21.80,,,,,PIN,v2nOuQx9G7FaLWoRN8XGT4,27-02-2025,
+item,toegevoegd,Tafel Counter 1,2025/02/27 12:45:38,Manager,5.50,,1,9,8010,Torta 5.5,,uxl1ejjMpqoS44d5qHvGd,27-02-2025,verkoop
+item,toegevoegd,Tafel Counter 1,2025/02/27 12:45:38,Manager,7.00,,1,9,8010,Torta 7,,uxl1ejjMpqoS44d5qHvGd,27-02-2025,verkoop
+item,toegevoegd,Tafel Counter 1,2025/02/27 12:45:38,Manager,8.00,,1,9,8010,Focaccia FILLED 8,,uxl1ejjMpqoS44d5qHvGd,27-02-2025,verkoop
+item,toegevoegd,Tafel Counter 1,2025/02/27 12:45:38,Manager,9.00,,1,9,8010,Focaccia FILLED 9,,uxl1ejjMpqoS44d5qHvGd,27-02-2025,verkoop
+transactie,,Tafel Counter 1,2025/02/27 12:47:10,Manager,,29.50,,,,,PIN,uxl1ejjMpqoS44d5qHvGd,27-02-2025,
+item,toegevoegd,Tafel Bar Indoor,2025/02/27 13:05:40,Manager,3.00,,1,9,8010,Can,,W2p74OaFED1xQBi9Bkkt4,27-02-2025,verkoop
+item,toegevoegd,Tafel Bar Indoor,2025/02/27 13:05:40,Manager,30.00,,2,9,8010,PASTA 15,,W2p74OaFED1xQBi9Bkkt4,27-02-2025,verkoop
+item,toegevoegd,Tafel Bar Indoor,2025/02/27 13:24:28,Manager,3.50,,1,9,8010,Cappuccino/Latte Macchiato,,W2p74OaFED1xQBi9Bkkt4,27-02-2025,verkoop
+item,toegevoegd,Tafel Bar Indoor,2025/02/27 13:24:28,Manager,2.30,,1,9,8010,Coffee/Espresso,,W2p74OaFED1xQBi9Bkkt4,27-02-2025,verkoop
+transactie,,Tafel Bar Indoor,2025/02/27 13:41:11,Manager,,38.80,,,,,PIN,W2p74OaFED1xQBi9Bkkt4,27-02-2025,
+item,toegevoegd,Tafel Muretto Indoor,2025/02/27 13:06:05,Manager,4.50,,1,9,8010,Water 750,,L814eFGNQinPhySagagvug,27-02-2025,verkoop
+item,toegevoegd,Tafel Muretto Indoor,2025/02/27 13:06:05,Manager,3.00,,1,9,8010,Can,,L814eFGNQinPhySagagvug,27-02-2025,verkoop
+item,toegevoegd,Tafel Muretto Indoor,2025/02/27 13:06:05,Manager,8.50,,1,9,8010,Focaccia FILLED 8.5,,L814eFGNQinPhySagagvug,27-02-2025,verkoop
+item,toegevoegd,Tafel Muretto Indoor,2025/02/27 13:06:05,Manager,12.50,,1,9,8010,Focaccia FILLED 12.5,,L814eFGNQinPhySagagvug,27-02-2025,verkoop
+item,toegevoegd,Tafel Muretto Indoor,2025/02/27 13:18:38,Manager,3.00,,1,9,8010,Can,,L814eFGNQinPhySagagvug,27-02-2025,verkoop
+item,toegevoegd,Tafel Muretto Indoor,2025/02/27 13:36:34,Manager,4.60,,2,9,8010,Coffee/Espresso,,L814eFGNQinPhySagagvug,27-02-2025,verkoop
+item,toegevoegd,Tafel Muretto Indoor,2025/02/27 13:36:34,Manager,7.00,,1,9,8010,Torta 7,,L814eFGNQinPhySagagvug,27-02-2025,verkoop
+transactie,,Tafel Muretto Indoor,2025/02/27 13:40:31,Manager,,43.10,,,,,PIN,L814eFGNQinPhySagagvug,27-02-2025,
+item,toegevoegd,Tafel Counter 1,2025/02/27 13:14:35,Manager,8.50,,1,9,8010,Focaccia FILLED 8.5,,xrvhl1FbW3piopfFnt1Agx,27-02-2025,verkoop
+transactie,,Tafel Counter 1,2025/02/27 13:14:50,Manager,,8.50,,,,,PIN,xrvhl1FbW3piopfFnt1Agx,27-02-2025,
+item,toegevoegd,Tafel Counter 1,2025/02/27 13:35:23,Manager,7.00,,1,9,8010,Torta 7,,4r4AxzUtlwleIWlnNWLCe7,27-02-2025,verkoop
+transactie,,Tafel Counter 1,2025/02/27 13:35:44,Manager,,7.00,,,,,PIN,4r4AxzUtlwleIWlnNWLCe7,27-02-2025,
+item,toegevoegd,Tafel Panca Centro Indoor,2025/02/27 13:38:54,Manager,17.00,,2,21,8011,Gl SPRITZ,,wwAiVuJoUU5FzYPtM6LQU,27-02-2025,verkoop
+item,toegevoegd,Tafel Panca Centro Indoor,2025/02/27 13:38:54,Manager,35.00,,2,9,8010,Pasta 17.50,,wwAiVuJoUU5FzYPtM6LQU,27-02-2025,verkoop
+item,toegevoegd,Tafel Panca Centro Indoor,2025/02/27 13:58:40,Manager,3.50,,1,9,8010,Cappuccino/Latte Macchiato,,wwAiVuJoUU5FzYPtM6LQU,27-02-2025,verkoop
+item,toegevoegd,Tafel Panca Centro Indoor,2025/02/27 13:58:40,Manager,2.30,,1,9,8010,Coffee/Espresso,,wwAiVuJoUU5FzYPtM6LQU,27-02-2025,verkoop
+item,toegevoegd,Tafel Panca Centro Indoor,2025/02/27 13:58:40,Manager,7.00,,1,9,8010,Torta 7,,wwAiVuJoUU5FzYPtM6LQU,27-02-2025,verkoop
+transactie,,Tafel Panca Centro Indoor,2025/02/27 14:57:35,Manager,,64.80,,,,,PIN,wwAiVuJoUU5FzYPtM6LQU,27-02-2025,
+item,toegevoegd,Tafel Counter 2,2025/02/27 13:44:46,Manager,5.00,,1,9,8010,PESTO 125,,mnxRH2yDFdj9N2Ti8ceIo,27-02-2025,verkoop
+transactie,,Tafel Counter 2,2025/02/27 13:45:09,Manager,,5.00,,,,,PIN,mnxRH2yDFdj9N2Ti8ceIo,27-02-2025,
+item,toegevoegd,Tafel Counter 1,2025/02/27 14:01:57,Manager,7.00,,2,9,8010,slice FOCACCIA,,QExiiM6DonjEcja1B5T6H,27-02-2025,verkoop
+transactie,,Tafel Counter 1,2025/02/27 14:02:20,Manager,,7.00,,,,,PIN,QExiiM6DonjEcja1B5T6H,27-02-2025,
+item,toegevoegd,Tafel Bar Indoor,2025/02/27 14:13:02,Manager,3.50,,1,9,8010,slice FOCACCIA,,DjBphl1PUM2p1XsiiYFM,27-02-2025,verkoop
+item,gecorrigeerd,Tafel Bar Indoor,2025/02/27 14:23:07,Manager,-3.50,,-1,9,8010,slice FOCACCIA,,DjBphl1PUM2p1XsiiYFM,27-02-2025,verkoop
+item,toegevoegd,Tafel Counter 1,2025/02/27 15:21:04,Manager,5.00,,2,9,8010,Pasta Fresca 100gr,,EBRI7dF5kpSc5cssU7aPK,27-02-2025,verkoop
+item,toegevoegd,Tafel Counter 1,2025/02/27 15:21:04,Manager,4.00,,1,9,8010,SUGO Normale 150g,,EBRI7dF5kpSc5cssU7aPK,27-02-2025,verkoop
+item,toegevoegd,Tafel Counter 1,2025/02/27 15:21:04,Manager,6.00,,1,9,8010,SUGO Speciale 150g,,EBRI7dF5kpSc5cssU7aPK,27-02-2025,verkoop
+item,toegevoegd,Tafel Counter 1,2025/02/27 15:21:04,Manager,4.50,,1,9,8010,Veggie S 4.5,,EBRI7dF5kpSc5cssU7aPK,27-02-2025,verkoop
+transactie,,Tafel Counter 1,2025/02/27 15:21:43,Manager,,19.50,,,,,PIN,EBRI7dF5kpSc5cssU7aPK,27-02-2025,
+item,toegevoegd,Tafel Counter 1,2025/02/27 16:24:02,Manager,7.00,,2,9,8010,slice FOCACCIA,,4uPZSFRuzRLVnhSSFccQCk,27-02-2025,verkoop
+transactie,,Tafel Counter 1,2025/02/27 16:24:29,Manager,,7.00,,,,,PIN,4uPZSFRuzRLVnhSSFccQCk,27-02-2025,
+item,toegevoegd,Tafel Counter 1,2025/02/27 17:33:58,Manager,2.50,,1,9,8010,Pasta Fresca 100gr,,qv1X35siwx3IYxqkMULu4S,27-02-2025,verkoop
+item,toegevoegd,Tafel Counter 1,2025/02/27 17:33:58,Manager,11.00,,1,9,8010,SUGO SPECIALE 300gr,,qv1X35siwx3IYxqkMULu4S,27-02-2025,verkoop
+transactie,,Tafel Counter 1,2025/02/27 17:34:33,Manager,,13.50,,,,,PIN,qv1X35siwx3IYxqkMULu4S,27-02-2025,
+item,toegevoegd,Tafel Counter 1,2025/02/27 17:43:14,Manager,15.00,,1,9,8010,SUGO SPECIALE 500gr,,yPtSjnhOu1wdyuCcbHCAh,27-02-2025,verkoop
+item,toegevoegd,Tafel Counter 1,2025/02/27 17:43:14,Manager,3.50,,1,9,8010,slice FOCACCIA,,yPtSjnhOu1wdyuCcbHCAh,27-02-2025,verkoop
+item,toegevoegd,Tafel Counter 1,2025/02/27 17:43:14,Manager,5.00,,1,9,8010,sweet no price,,yPtSjnhOu1wdyuCcbHCAh,27-02-2025,verkoop
+transactie,,Tafel Counter 1,2025/02/27 17:43:48,Manager,,23.50,,,,,PIN,yPtSjnhOu1wdyuCcbHCAh,27-02-2025,
+item,toegevoegd,Tafel Panca Centro Indoor,2025/02/27 18:16:00,Manager,2.50,,1,9,8010,Tea/American Coffe,,KJla7F3aukiZgyE17nV14I,27-02-2025,verkoop
+item,toegevoegd,Tafel Panca Centro Indoor,2025/02/27 18:16:00,Manager,3.00,,1,9,8010,Juice/SAP,,KJla7F3aukiZgyE17nV14I,27-02-2025,verkoop
+item,toegevoegd,Tafel Panca Centro Indoor,2025/02/27 18:16:00,Manager,17.00,,1,9,8010,Pasta 17,,KJla7F3aukiZgyE17nV14I,27-02-2025,verkoop
+item,toegevoegd,Tafel Panca Centro Indoor,2025/02/27 18:16:00,Manager,13.00,,1,9,8010,PASTA 13,,KJla7F3aukiZgyE17nV14I,27-02-2025,verkoop
+transactie,,Tafel Panca Centro Indoor,2025/02/27 18:42:15,Manager,,35.50,,,,,PIN,KJla7F3aukiZgyE17nV14I,27-02-2025,
+item,toegevoegd,Tafel Muretto Indoor,2025/02/27 18:16:15,Manager,5.50,,1,21,8011,Beer Blonde,,8IX9WXy8xRjMzZuSagXYV,27-02-2025,verkoop
+item,toegevoegd,Tafel Muretto Indoor,2025/02/27 18:16:15,Manager,7.50,,1,9,8010,SALAD di Matilde,,8IX9WXy8xRjMzZuSagXYV,27-02-2025,verkoop
+item,toegevoegd,Tafel Muretto Indoor,2025/02/27 18:16:15,Manager,12.00,,1,9,8010,PASTA 12,,8IX9WXy8xRjMzZuSagXYV,27-02-2025,verkoop
+item,toegevoegd,Tafel Muretto Indoor,2025/02/27 19:05:21,Manager,5.50,,1,21,8011,Beer Blonde,,8IX9WXy8xRjMzZuSagXYV,27-02-2025,verkoop
+transactie,,Tafel Muretto Indoor,2025/02/27 19:05:56,Manager,,30.50,,,,,PIN,8IX9WXy8xRjMzZuSagXYV,27-02-2025,
+item,toegevoegd,Tafel Bar Indoor,2025/02/27 19:06:58,Manager,14.50,,1,9,8010,Antipasto Single,,6pE67kpD2So6tWNwz4HKy,27-02-2025,verkoop
+item,toegevoegd,Tafel Bar Indoor,2025/02/27 19:06:58,Manager,7.60,,1,21,8011,Gl GRIGNOLINO,,6pE67kpD2So6tWNwz4HKy,27-02-2025,verkoop
+item,toegevoegd,Tafel Bar Indoor,2025/02/27 19:06:58,Manager,3.00,,1,9,8010,Can,,6pE67kpD2So6tWNwz4HKy,27-02-2025,verkoop
+item,toegevoegd,Tafel Bar Indoor,2025/02/27 19:06:58,Manager,39.00,,2,9,8010,Pasta 19.50,,6pE67kpD2So6tWNwz4HKy,27-02-2025,verkoop
+item,gecorrigeerd,Tafel Bar Indoor,2025/02/27 20:08:04,Manager,-3.00,,-1,9,8010,Can,,6pE67kpD2So6tWNwz4HKy,27-02-2025,verkoop
+item,toegevoegd,Tafel Bar Indoor,2025/02/27 20:08:04,Manager,14.00,,2,9,8010,Torta 7,,6pE67kpD2So6tWNwz4HKy,27-02-2025,verkoop
+item,toegevoegd,Tafel Bar Indoor,2025/02/27 20:08:04,Manager,2.30,,1,9,8010,Coffee/Espresso,,6pE67kpD2So6tWNwz4HKy,27-02-2025,verkoop
+item,toegevoegd,Tafel Bar Indoor,2025/02/27 20:08:04,Manager,4.00,,1,9,8010,Crodino,,6pE67kpD2So6tWNwz4HKy,27-02-2025,verkoop
+item,toegevoegd,Tafel Bar Indoor,2025/02/27 20:08:04,Manager,4.00,,1,9,8010,Chinotto,,6pE67kpD2So6tWNwz4HKy,27-02-2025,verkoop
+transactie,,Tafel Bar Indoor,2025/02/27 20:39:38,Manager,,85.40,,,,,PIN,6pE67kpD2So6tWNwz4HKy,27-02-2025,
+item,toegevoegd,Tafel Panca 1 Indoor,2025/02/27 19:07:42,Manager,14.00,,2,21,8011,Glass Rosso Dolomiti,,ZmD5icLHvBu7yXdaYXCzGN,27-02-2025,verkoop
+item,toegevoegd,Tafel Panca 1 Indoor,2025/02/27 19:07:42,Manager,36.00,,2,9,8010,PASTA 18,,ZmD5icLHvBu7yXdaYXCzGN,27-02-2025,verkoop
+item,toegevoegd,Tafel Panca 1 Indoor,2025/02/27 19:23:26,Manager,7.00,,1,9,8010,Torta 7,,ZmD5icLHvBu7yXdaYXCzGN,27-02-2025,verkoop
+transactie,,Tafel Panca 1 Indoor,2025/02/27 19:44:55,Manager,,57.00,,,,,PIN,ZmD5icLHvBu7yXdaYXCzGN,27-02-2025,
+item,toegevoegd,Tafel Vetrina Indoor,2025/02/27 19:12:32,Manager,29.50,,1,21,8011,bottle GRIGNOLINO,,6grQR3zCbxL6DbNZHGHfkr,27-02-2025,verkoop
+item,toegevoegd,Tafel Vetrina Indoor,2025/02/27 19:23:17,Manager,15.50,,1,9,8010,Caprese Bresaola,,6grQR3zCbxL6DbNZHGHfkr,27-02-2025,verkoop
+item,toegevoegd,Tafel Vetrina Indoor,2025/02/27 19:23:17,Manager,17.50,,1,9,8010,Pasta 17.50,,6grQR3zCbxL6DbNZHGHfkr,27-02-2025,verkoop
+item,toegevoegd,Tafel Vetrina Indoor,2025/02/27 19:23:17,Manager,36.00,,2,9,8010,PASTA 18,,6grQR3zCbxL6DbNZHGHfkr,27-02-2025,verkoop
+item,toegevoegd,Tafel Vetrina Indoor,2025/02/27 19:23:17,Manager,18.50,,1,9,8010,PASTA 18.50,,6grQR3zCbxL6DbNZHGHfkr,27-02-2025,verkoop
+item,toegevoegd,Tafel Vetrina Indoor,2025/02/27 19:48:44,Manager,14.00,,2,9,8010,Torta 7,,6grQR3zCbxL6DbNZHGHfkr,27-02-2025,verkoop
+transactie,,Tafel Vetrina Indoor,2025/02/27 20:06:41,Manager,,131.00,,,,,PIN,6grQR3zCbxL6DbNZHGHfkr,27-02-2025,
+item,toegevoegd,Tafel Counter 1,2025/02/27 19:50:29,Manager,10.50,,3,9,8010,slice FOCACCIA,,j7YjBpXrMWJPz45j9k3bd,27-02-2025,verkoop
+transactie,,Tafel Counter 1,2025/02/27 19:51:05,Manager,,10.50,,,,,PIN,j7YjBpXrMWJPz45j9k3bd,27-02-2025,
+item,toegevoegd,Tafel Counter 1,2025/02/27 20:25:24,Manager,21.00,,3,9,8010,Torta 7,,Ri6Z5fMI8ewxXNzbCOpn6,27-02-2025,verkoop
+transactie,,Tafel Counter 1,2025/02/27 20:25:52,Manager,,21.00,,,,,PIN,Ri6Z5fMI8ewxXNzbCOpn6,27-02-2025,
+item,toegevoegd,Directe verkoop,2025/02/27 20:42:27,Manager,15.50,,1,0,8012,tip,,9OiKZcLQJ8KtB9X2nN3HFI,27-02-2025,verkoop
+transactie,,Directe verkoop,2025/02/27 20:42:27,Manager,,15.50,,,,,PIN,9OiKZcLQJ8KtB9X2nN3HFI,27-02-2025,
